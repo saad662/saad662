@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=saad662" alt="Profile View">
   <div class="profile-card">
     <h1 align="center">Hi 👋, I'm Muhammad Saad Amin</h1>
-    <h3 align="center">A passionate Backenc Developer from Pakistan</h3>
+    <h3 align="center">A passionate Backend Developer from Pakistan</h3>
     <p>I’m currently learning DHA Suffa University BS(CS Program)</p>
        <div class="contact-info">
       <span>Feel free to email me any queries at : </span><a href="mailto:saadamin662@gmail.com">saadamin662@gmail.com</a>
