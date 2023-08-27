@@ -5,10 +5,15 @@
 <img src="https://komarev.com/ghpvc/?username=saad662" alt="Profile View">
   <div class="profile-card">
     <h1 align="center">Hi 👋, I'm Muhammad Saad Amin</h1>
-    <h3 align="center">A passionate Backend Developer from Pakistan</h3>
-    <p>I’m currently learning DHA Suffa University BS(CS Program)</p>
+    <h3 align="center">A passionate MERN Stack Developer from Karachi, Pakistan.</h3>
+      <ul>
+        <li>I’m currently a Student of DHA Suffa University BS(CS Program)</li>
+        <li>💬 Ask me about Node.JS And React.JS</li>
+        <li>🌱 I’m currently Focusing on Node.JS</li>
+        <li>👯 I’m looking to collaborate on MERN projects</li>
+      </ul>
        <div class="contact-info">
-      <span>Feel free to email me any queries at : </span><a href="mailto:saadamin662@gmail.com">saadamin662@gmail.com</a>
+      <span>Feel free to Email me any queries at : </span><a href="mailto:saadamin662@gmail.com">saadamin662@gmail.com</a>
     </div>
 </div>   
       
