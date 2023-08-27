@@ -12,7 +12,11 @@
         <li>🌱 I’m currently Focusing on Node.JS</li>
         <li>👯 I’m looking to collaborate on MERN projects</li>
       </ul>
-       <div class="contact-info">
+        <h2>Connect with me:</h2>
+      <a href="https://www.linkedin.com/in/saadamin662/">
+        <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png" alt="LinkedIn" width="40" height="40">
+      </a>
+      <div class="contact-info">
       <span>Feel free to Email me any queries at : </span><a href="mailto:saadamin662@gmail.com">saadamin662@gmail.com</a>
     </div>
 </div>   
