@@ -11,6 +11,9 @@
         <li>💬 Ask me about Node.JS And React.JS</li>
         <li>🌱 I’m currently Focusing on Node.JS</li>
         <li>👯 I’m looking to collaborate on MERN projects</li>
+        <li>📄 Know about my experiences
+              <a href="https://saad662.github.io/portfolio/">https://saad662.github.io/portfolio/</a>
+        </li>
       </ul>
         <h2>Connect with me:</h2>
       <a href="https://www.linkedin.com/in/saadamin662/">
