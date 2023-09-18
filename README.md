@@ -16,14 +16,14 @@
               <a href="https://saad662.github.io/portfolio/">https://saad662.github.io/portfolio/</a>
         </li>
       </ul>
-        <h2>Connect with me:</h2>
-      <a href="https://www.linkedin.com/in/saadamin662/">
-        <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png" alt="LinkedIn" width="40" height="40">
-      </a>
-      <div class="contact-info">
-      <span>Feel free to Email me any queries at : </span><a href="mailto:saadamin662@gmail.com">saadamin662@gmail.com</a>
-    </div>
-</div>   
+        <div>
+ <h1>Let's Learn, Grow and Connect</h1>
+<a  href="https://www.linkedin.com/in/saadamin662/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/iamsaad666" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:saadamin662@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://github.com/saad662"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
       
 <div class="repo-card">
     <h3>Top Languages</h3>
