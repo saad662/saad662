@@ -6,6 +6,7 @@
   <div class="profile-card">
     <h1 align="center">Hi 👋, I'm Muhammad Saad Amin</h1>
     <h3 align="center">A passionate MERN Stack Developer from Karachi, Pakistan.</h3>
+        <img width="30%" align="right" src="https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif" >
       <ul>
         <li>I’m currently a Student of DHA Suffa University BS(CS Program)</li>
         <li>💬 Ask me about Node.JS And React.JS</li>
