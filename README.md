@@ -47,3 +47,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true" />
 </picture>
+
+# 📈 Contribution Graph  
+[![Muhammad Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saad662&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
