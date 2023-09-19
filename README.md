@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=saad662" alt="Profile View">
   <div class="profile-card">
-    <h1 align="center">Hi 👋, I'm Muhammad Saad Amin</h1>
+        <h1 align="center" >Hi 👋, I'm <a href="https://www.linkedin.com/in/saadamin662/" target="_blank">Muhammad Saad Amin</a> </h1>
     <h3 align="center">A passionate MERN Stack Developer from Karachi, Pakistan.</h3>
         <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif" >
       <ul>
