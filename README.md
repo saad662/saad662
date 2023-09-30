@@ -51,7 +51,7 @@
 
 <div class="repo-card">
     <h3>GitHub Streak</h3>
-    <img src="https://streak-stats.demolab.com?user=saad662" alt="GitHub Streak">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=saad662&theme=highcontrast&type=png)](https://git.io/streak-stats)
 </div>
 
 <h3>GitHub Stats</h3>
