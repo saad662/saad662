@@ -51,7 +51,7 @@
 
 <div class="repo-card">
     <h3>GitHub Streak</h3>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saad662" alt="saad662" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saad662&theme=highcontrast" alt="saad662" /></p>
 </div>
 
 <h3>GitHub Stats</h3>
