@@ -22,6 +22,7 @@
 <a href="https://twitter.com/iamsaad666" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:saadamin662@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://github.com/saad662"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a  href="https://www.npmjs.com/~saad662"><img alt=" NPMSJS" src="https://img.shields.io/badge/npm-D14836?style=for-the-badge&logo=npm&logoColor=white">
 </div>
 
 
