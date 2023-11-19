@@ -47,7 +47,7 @@
       
 <div class="repo-card">
     <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad662&layout=donut" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true&hide_border=false&count_private=true&theme=github_dark&count_private=true" alt="Saad's GitHub Stats">
   </div>
 
 <div class="repo-card">
