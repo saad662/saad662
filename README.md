@@ -8,7 +8,7 @@
 
 **Python Automation Developer · Data Science & Machine Learning**
 
-Karachi, Pakistan
+Frankfurt, Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadamin662/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://saad662.github.io/portfolio/)
