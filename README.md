@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="About_Saad_Cover.jpg" alt="Cover" width="100%">
+<img src="About_Saad_Cover.png" alt="Cover" width="100%">
 
 <br>
 
