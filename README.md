@@ -1,84 +1,100 @@
-<div class="cover-container">
-      <img src="About_Saad_Cover.jpg" alt="Cover">
+<div align="center">
+
+<img src="About_Saad_Cover.jpg" alt="Cover" width="100%">
+
+<br>
+
+# Muhammad Saad Amin
+
+**Python Automation Developer · Data Science & Machine Learning**
+
+Karachi, Pakistan
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadamin662/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://saad662.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:saadamin662@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/iamsaad666)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saad662)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~saad662)
+
+![Profile views](https://komarev.com/ghpvc/?username=saad662&color=blue&style=flat-square)
+
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=saad662" alt="Profile View">
+<br>
 
-<div class="profile-card">
-  <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/saadamin662/" target="_blank">Muhammad Saad Amin</a></h1>
-  <h3 align="center">Python Automation Developer | Data Science & Machine Learning Enthusiast | Karachi, Pakistan</h3>
+## About
 
-  <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif" >
+I design and build Python automation systems — scraping pipelines, data workflows, and scheduled jobs that turn manual processes into reliable, hands-off ones. Alongside that, I work in data science and machine learning, from cleaning and structuring raw data through to training and evaluating models.
 
-  <ul>
-    <li>🔧 I build Python-based automation pipelines — scraping, data processing, and workflow automation</li>
-    <li>📊 I work with data science and machine learning — from data cleaning to model building</li>
-    <li>💬 Ask me about Python, automation scripting, pandas/numpy, and ML fundamentals</li>
-    <li>🌱 Currently deepening my skills in machine learning and applied data science</li>
-    <li>👯 Looking to collaborate on automation and data-driven projects</li>
-    <li>🕸️ Also comfortable with full-stack (MERN) development when a project calls for it</li>
-    <li>📄 Know more about my experience: <a href="https://saad662.github.io/portfolio/">https://saad662.github.io/portfolio/</a></li>
-  </ul>
+I also have a full-stack background (MERN), which comes in handy when a project needs an interface or API around the automation itself.
 
-  <div>
-    <h1>Let's Learn, Grow and Connect</h1>
-    <a href="https://www.linkedin.com/in/saadamin662/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/iamsaad666" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-    <a href="mailto:saadamin662@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/saad662"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://www.npmjs.com/~saad662"><img alt="NPMJS" src="https://img.shields.io/badge/npm-D14836?style=for-the-badge&logo=npm&logoColor=white"></a>
-  </div>
+- 🔧 Building automation pipelines and data workflows in Python
+- 📊 Applying data science and ML techniques to real datasets
+- 🌱 Currently deepening my machine learning fundamentals
+- 🤝 Open to collaborating on automation and data-driven projects
+- 📄 More on my background: [saad662.github.io/portfolio](https://saad662.github.io/portfolio/)
+
+<br>
+
+## Core Stack
+
+<div align="center">
+
+**Automation & Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Tooling**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Also Comfortable With — Full-Stack (MERN)**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6DA55F?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
-# 🐍 Automation, Data Science & ML
+<br>
 
-<p align="center">
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-<img alt="Linux" src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## GitHub Stats
 
-# 🕸️ Also Comfortable With (Full-Stack)
+<div align="center">
 
-<p align="center">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img alt="ExpressJS" src="https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad662&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
 
-<div class="repo-card">
-    <h3>Top Languages</h3>
-    <img align="center" alt="Saad's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad662&layout=donut&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saad662&theme=dark&hide_border=true&background=0D1117" />
+
 </div>
 
-<div class="repo-card">
-    <h3>GitHub Streak</h3>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saad662&theme=highcontrast" alt="saad662" /></p>
+<br>
+
+## Activity
+
+<div align="center">
+
+[![Muhammad Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saad662&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-<h3>GitHub Stats</h3>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true" />
-</picture>
+<br>
 
-# 📈 Contribution Graph
-[![Muhammad Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saad662&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+*Let's connect and build something useful.*
+
+</div>
