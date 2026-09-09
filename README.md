@@ -87,7 +87,9 @@ I also have a full-stack background (MERN), which comes in handy when a project 
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/58A6FF/saad662" alt="Muhammad Saad's GitHub contribution activity" width="100%">
+<img src="https://samdev-pulse.vercel.app/api/profile?username=saad662&theme=midnightneon&hide_trophies=true"
+     width="100%"
+     alt="Muhammad Saad's GitHub Activity">
 
 </div>
 
