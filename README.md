@@ -87,7 +87,7 @@ I also have a full-stack background (MERN), which comes in handy when a project 
 
 <div align="center">
 
-[![Muhammad Saad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saad662&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad662&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Saad%27s%20Contribution%20Activity" width="100%">
 
 </div>
 
