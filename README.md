@@ -87,7 +87,7 @@ I also have a full-stack background (MERN), which comes in handy when a project 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saad662&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Muhammad%20Saad%27s%20Contribution%20Activity" width="100%">
+<img src="https://github-readme-insight-terminal-ascii.vercel.app/svg?user=saad662&theme=macos" width="100%" alt="GitHub contribution activity">
 
 </div>
 
