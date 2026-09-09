@@ -74,10 +74,9 @@ I also have a full-stack background (MERN), which comes in handy when a project 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saad662&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad662&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saad662&theme=dark&hide_border=true&background=0D1117" />
+<img src="https://ghstats.dev/api/card?username=saad662&theme=tokyonight&bg=0D1117&hide_border=true&show_icons=true&show_ring=true"
+     width="100%"
+     alt="Muhammad Saad's GitHub Stats">
 
 </div>
 
